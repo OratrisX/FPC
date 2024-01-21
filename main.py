@@ -78,7 +78,7 @@ logger.debug("------------------------------------------------------------------
 print(logo)
 print(f"{Fore.RED}{Style.BRIGHT}v{VERSION}{Style.RESET_ALL}\n")
 print(f"{Fore.MAGENTA}{Style.BRIGHT}By {Fore.BLUE}{Style.BRIGHT}Oratris (Designed by Woopertail){Style.RESET_ALL}")
-print(f"{Fore.MAGENTA}{Style.BRIGHT} * GitHub: {Fore.BLUE}{Style.BRIGHT}https://github.com/Oratris/FunPayCardinal{Style.RESET_ALL}")
+print(f"{Fore.MAGENTA}{Style.BRIGHT} * GitHub: {Fore.BLUE}{Style.BRIGHT}https://github.com/OratrisX/FPC{Style.RESET_ALL}")
 print(f"{Fore.MAGENTA}{Style.BRIGHT} * Плагины: {Fore.BLUE}{Style.BRIGHT}t.me/fpc_plugins{Style.RESET_ALL}")
 print(f"{Fore.MAGENTA}{Style.BRIGHT} * Lolz: {Fore.BLUE}{Style.BRIGHT}https://zelenka.guru/threads/6160198/#post-43650791")
 
